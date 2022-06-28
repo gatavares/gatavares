@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![My Github Status](https://github-readme-stats.vercel.app/api?username=gatavares)](https://github.com/gatavares/github-readme-stats)
+![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=gatavares&include_all_commits=true&hide=prs,issues,contribs,show_icons=true&theme=dark)
