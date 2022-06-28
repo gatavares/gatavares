@@ -17,4 +17,4 @@ Com 17 anos, já trabalhei para 3 empresas e estou a estagiar numa empresa de pr
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=gatavares&count_private=true&show_icons=true&include_all_commits=true&theme=midnight-purple)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gatavares&hide=scss&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gatavares&hide=scss&theme=midnight-purple)
