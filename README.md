@@ -1,20 +1,28 @@
-### Bem-vindo ao meu perfil no GITHUB! 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=210&section=header&text=Guilherme%20Tavares&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Dev%20Front%20End&descAlignY=50">
 
-#### <ins>Quem eu sou?</ins>
-Olá, eu sou o Guilherme Tavares!
-<p>Sou um programador júnior e estou-me a formar na Escola Profissional Ruiz Costa.</p>
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gatavares&show_icons=true&count_private=true&hide_border=true&title_color=D0C5EF&icon_color=9796f0&text_color=fbc7d4&bg_color=0d1117"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gatavares&layout=compact&hide_border=true&hide=scss,hack,less&title_color=D0C5EF&text_color=fbc7d4&bg_color=0d1117"/>
+  
+</div>
+  <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Logo Gui HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="Logo Gui CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="Logo Gui JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Logo Gui React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Logo Gui VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Logo Gui Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg">
+  <img align="center" alt="Logo Gui Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg">
+  <img align="center" alt="Logo Gui Premiere" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/premiere/premiere-plain.svg">
+  <img align="center" alt="Logo Gui Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
+</div>
+<hr>
 
-<p>Comecei a programar com 14 anos, em casa, alguns joguinhos e adorei, logo,
-interessei-me mais e decidi aprofundar no ramo da programação. Descobri o ramo de <i>FrontEnd</i> de sites, e decidi fazer o meu primeiro site através de cursos gratuitos no <a href="https://www.w3schools.com/">W3</a> e no YouTube.</p>
-
-<p>Comecei a fazer sites para aprender e em 2020 não sabia ao certo o que fazer da minha vida. Neste ano, descobri através de um amigo que uma escola que estava a formar novos programadores e a prepará-los para o mercado e nem pensei duas vezes, candidatei-me a uma vaga numa turma de Programação na <b>Escola Profissional Ruiz Costa.</b></p>
-<p>Hoje ainda frequento esta escola, no curso de <b>Gestão e Programação de Sistemas Informáticos</b> e tenho a certeza que se tivesse outra chance de escolher, não mudaria nada!</p>
-
-Com 17 anos, já trabalhei para 3 empresas e estou a estagiar numa empresa de programação "web in code" através da minha escola.
-
-
-## Alguns Status 
-
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=gatavares&count_private=true&show_icons=true&include_all_commits=true&theme=midnight-purple)
-
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=gatavares&layout=compact&langs_count=8&hide=scss,hack,less&theme=midnight-purple)
+<div> 
+  <a href="https://www.instagram.com/_g_.a._tavares_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-tavares-95a871206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:guilhermeatavares89@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+  ![Snake animation](https://github.com/gabrielaguaru/gabrielaguaru/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
