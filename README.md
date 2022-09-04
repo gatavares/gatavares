@@ -3,9 +3,9 @@
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gatavares&show_icons=true&count_private=true&hide_border=true&title_color=D0C5EF&icon_color=9796f0&text_color=fbc7d4&bg_color=0d1117"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gatavares&layout=compact&hide_border=true&hide=scss,hack,less&title_color=D0C5EF&text_color=fbc7d4&bg_color=0d1117"/>
-  
 </div>
-  <div style="display: inline_block" align="center"><br>
+
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Logo Gui C" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Logo Gui C#" height="30" width="40" 
@@ -32,8 +32,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudi
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
   <img align="center" alt="Logo Gui XD" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
-  
 </div>
+
 <hr>
 
 <div align="center"> 
@@ -43,5 +43,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
   <a href = "mailto:guilhermeatavares89@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
  
   ![Snake animation](https://github.com/gatavares/gatavares/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
