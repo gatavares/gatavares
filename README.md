@@ -39,7 +39,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
 <div align="center"> 
   <a href="https://www.instagram.com/_g_.a._tavares_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/guilherme-tavares-95a871206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href = "mailto:guilhermeatavares89@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=guilhermeatavares89@gmail.com&su=Insira+o+motivo+de+contacto!" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
  
   ![Snake animation](https://github.com/gatavares/gatavares/blob/output/github-contribution-grid-snake.svg)
 </div>
